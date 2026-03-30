@@ -89,9 +89,9 @@ public class MainActivity extends AppCompatActivity {
 
         try {
             Map<String, String> config = new HashMap<>();
-            config.put("cloud_name", "duk0yltw6");
-            config.put("api_key", "661438681126276");
-            config.put("api_secret", "dii41v42hzXXQwKhMJQLFf7R8fI");
+            config.put("cloud_name", "");
+            config.put("api_key", "");
+            config.put("api_secret", "");
             MediaManager.init(getApplicationContext(), config);
         } catch (Exception e) {
         }
