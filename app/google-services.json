@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132495318729",
+    "project_id": "roots-1b612",
+    "storage_bucket": "roots-1b612.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132495318729:android:744a3d70b7d8237709b718",
+        "android_client_info": {
+          "package_name": "com.example.roots"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNkU8UhpeyJoCk_5YZ6DvJ488iUTqdAR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
