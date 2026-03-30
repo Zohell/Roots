@@ -33,7 +33,7 @@ res/layout: Contains the XML designs for a user-friendly interface.
 AndroidManifest.xml: Defines app permissions and essential components.
 
 🔧 Installation & Setup
-Clone the repository: git clone https://github.com/your-username/Roots.git.
+Clone the repository: git clone https://github.com/Zohell/Roots.
 
 Open the project in Android Studio.
 
